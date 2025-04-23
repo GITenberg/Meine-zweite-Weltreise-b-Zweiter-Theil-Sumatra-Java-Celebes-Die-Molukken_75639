@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <pgterms:ebook rdf:about="ebooks/75639">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-17</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">331</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/3807">
+        <pgterms:name>Pfeiffer, Ida</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1797</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1858</pgterms:deathdate>
+        <pgterms:alias>Pfeiffer, Ida Reyer</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Ida_Laura_Pfeiffer"/>
+        <pgterms:webpage rdf:resource="https://de.wikipedia.org/wiki/Ida_Pfeiffer"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:title>Meine zweite Weltreise : $b Zweiter Theil : Sumatra. Java. Celebes. Die Molukken.</dcterms:title>
+    <pgterms:marc260>  $aWien :$bCarl Gerold, $c1856.</pgterms:marc260>
+    <dcterms:description>Reading ease score: 68.6 (8th &amp; 9th grade). Neither easy nor difficult to read.</dcterms:description>
+    <pgterms:marc508>Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by eBooks on Demand at the University of Vienna.)</pgterms:marc508>
+    <pgterms:marc520>"Meine zweite Weltreise: Zweiter Theil: Sumatra, Java, Celebes, Die Molukken" by Ida Pfeiffer is a travelogue written in the mid-19th century. This narrative details the author's explorations through the islands of Sumatra, Java, Celebes, and the Moluccas, providing insights into the cultures, landscapes, and experiences she encounters. Pfeiffer's adventurous spirit drives her to venture into the unknown, often putting herself in risky situations to learn more about the indigenous peoples and their customs.  At the start of the journey, Pfeiffer eagerly prepares for her voyage to Sumatra, highlighting the challenges she anticipates, including the significant travel costs. Her arrival at Padang serves as the launch point for her exploration into the interior regions, where she plans to encounter the Battak people, notorious for their unique customs and cannibalistic history. Through her initial experiences, the reader is introduced to the lush landscapes and diverse cultures of Sumatra, as well as the various warnings she receives about the dangers that await her in the wild. As Pfeiffer sets off on horseback into the uncharted territories, she embodies the spirit of adventure, determined to document her findings despite the risks involved. (This is an automatically generated summary.)</pgterms:marc520>
+    <pgterms:marc904>https://phaidra.univie.ac.at/search#?page=1&amp;pagesize=10&amp;collection=o:1078834</pgterms:marc904>
+    <pgterms:marc905>20220611110859pfeiffer</pgterms:marc905>
+    <pgterms:marc906>1856</pgterms:marc906>
+    <pgterms:marc907>at</pgterms:marc907>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Nacccbe197e33464e80aae8d4075a264d">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">de</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N1abe0bd4b6e54e03ae74671207e93d53">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Voyages around the world</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nb07bb9a0c7ac4d7480a404ebc10e2b7e">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>G</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N5efdbdaf25814ea8b8a2e4bee9c06610">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="N5ed0dc8aff234817a30a41c2fafc0343">
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+        <rdf:value>Browsing: Culture/Civilization/Society</rdf:value>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="N50c77f06a2cf453c87d914aaa80cbd91">
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+        <rdf:value>Browsing: Travel &amp; Geography</rdf:value>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75639.html.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441676</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T20:00:19.847232</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N911ac11f63c643f8829fddc9b97eb310">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/75639/75639-h/75639-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">416068</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T07:17:19</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N351f6a5bb941471eb64acbb09077bbb4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75639.epub3.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">676043</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T20:00:26.948109</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0cf6ce2937684524af6955084e848cb2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75639.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">677502</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T20:00:21.630167</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N27c9f66bb1604d3e8f8e0150b1d75fb7">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75639.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280236</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T20:00:20.715193</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Naa0ae5e5229e432b9dd14d88f778415a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75639.kf8.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">705514</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T20:00:30.943119</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd7850f7e5d65460d8f4553609b3ce95f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75639.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">678052</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T20:00:26.215124</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb19e488763d64085a6987e138770a11b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75639.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">388271</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T20:00:18.857178</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc1a36d0d502541178ff32af94aa5929b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/75639/75639-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368321</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T07:17:19</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb7a1f92b3a094aed8c1629704760426e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75639.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14126</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T20:00:31.092110</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na8f25fd6b7944bf19097dbc94710730c">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/75639/pg75639.cover.medium.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7403</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T20:00:21.002145</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N277f6a8e05c24067a9bc34ee2d13f4be">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/75639/pg75639.cover.small.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1839</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T20:00:20.857148</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndc685fb91a2547c0a79b3800f9904033">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/75639/pg75639-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/75639"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1446466</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-18T20:00:19.945233</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0e0319ed15c6404cb847cd5287455e4a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9b161a39a92b4f749ebc7e720fcb9413">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Ida_Laura_Pfeiffer">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Ida_Pfeiffer">
+    <dcterms:description>de.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
