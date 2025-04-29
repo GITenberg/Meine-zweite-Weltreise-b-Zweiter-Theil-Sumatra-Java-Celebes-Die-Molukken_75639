@@ -1,5 +1,8 @@
 _repo: Meine-zweite-Weltreise-b-Zweiter-Theil-Sumatra-Java-Celebes-Die-Molukken_75639
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75639-h/images/cover.jpg
 creator:
   author:
     agent_name: Pfeiffer, Ida
@@ -13,6 +16,8 @@ creator:
     - https://de.wikipedia.org/wiki/Ida_Pfeiffer
 description: 'Reading ease score: 68.6 (8th & 9th grade). Neither easy nor difficult
   to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75639#Meine-zweite-Weltreise-b-Zweiter-Theil-Sumatra-Java-Celebes-Die-Molukken
 gutenberg_bookshelf:
 - 'Browsing: Culture/Civilization/Society'
 - 'Browsing: Travel & Geography'
